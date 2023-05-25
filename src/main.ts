@@ -1,6 +1,6 @@
 import { createApp } from "vue";
 import App from "./App.vue";
-import { ModalPlugin } from "./lib";
+import { modalPlugin } from "./lib";
 
 const app = createApp(App);
-app.use(ModalPlugin).mount("#app");
+app.use(modalPlugin).mount("#app");
