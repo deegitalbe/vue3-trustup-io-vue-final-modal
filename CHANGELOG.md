@@ -1,5 +1,11 @@
 # @deegital/vue3-trustup-io-vue-final-modal
 
+## 0.2.2
+
+### Patch Changes
+
+- 401b8d4: Fixing naming.
+
 ## 0.2.1
 
 ### Patch Changes
