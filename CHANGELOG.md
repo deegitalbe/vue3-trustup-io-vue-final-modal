@@ -1,5 +1,11 @@
 # @deegital/vue3-trustup-io-vue-final-modal
 
+## 0.2.1
+
+### Patch Changes
+
+- 93d41fb: Fixing export
+
 ## 0.2.0
 
 ### Minor Changes
