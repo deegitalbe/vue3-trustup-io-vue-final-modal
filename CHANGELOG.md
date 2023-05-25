@@ -1,5 +1,11 @@
 # @deegital/vue3-trustup-io-vue-final-modal
 
+## 0.2.4
+
+### Patch Changes
+
+- 7d7e110: Missing dist import for css files.
+
 ## 0.2.3
 
 ### Patch Changes
