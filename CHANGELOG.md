@@ -1,5 +1,11 @@
 # @deegital/vue3-trustup-io-vue-final-modal
 
+## 0.2.3
+
+### Patch Changes
+
+- 1a8ae12: Removing style js injection.
+
 ## 0.2.2
 
 ### Patch Changes
