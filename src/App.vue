@@ -31,7 +31,7 @@
 
 <script setup lang="ts">
 import "./lib";
-import { ModalsContainer } from "vue-final-modal";
+import { ModalsContainer } from "./lib";
 import { CenteredModal } from "./lib";
 import { useVueFinalModal } from "./lib";
 const { open } = useVueFinalModal(CenteredModal, {
