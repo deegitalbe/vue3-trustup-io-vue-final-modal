@@ -1,1 +1,1 @@
-export { default as modalPlugin } from "./ModalPlugin";
+export { default as modalPlugin } from "./modalPlugin";

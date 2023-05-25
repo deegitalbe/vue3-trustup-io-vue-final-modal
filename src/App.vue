@@ -33,8 +33,8 @@
 import "./lib";
 import { ModalsContainer } from "./lib";
 import { CenteredModal } from "./lib";
-import { useVueFinalModal } from "./lib";
-const { open } = useVueFinalModal(CenteredModal, {
+import { useModal } from "./lib";
+const { open } = useModal(CenteredModal, {
   string: "string",
 });
 </script>

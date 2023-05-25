@@ -1,1 +1,1 @@
-export { default as useVueFinalModal } from "./useVueFinalModal";
+export { default as useModal } from "./useModal";

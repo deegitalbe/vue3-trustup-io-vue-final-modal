@@ -1,11 +1,11 @@
-import { useModal } from "vue-final-modal";
+import { useModal as useVueFinalModal } from "vue-final-modal";
 import type { Constructor } from "vue-final-modal";
 
-const useVueFinalModal = <P extends Record<string, unknown>>(
+const useModal = <P extends Record<string, unknown>>(
   modalComponent: Constructor,
   props: P
 ) => {
-  const instance = useModal({
+  const instance = useVueFinalModal({
     component: modalComponent,
     attrs: {
       ...props,
@@ -16,4 +16,4 @@ const useVueFinalModal = <P extends Record<string, unknown>>(
   });
   return instance;
 };
-export default useVueFinalModal;
+export default useModal;

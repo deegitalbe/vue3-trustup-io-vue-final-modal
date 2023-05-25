@@ -1,3 +1,2 @@
-import CenteredModal from "./CenteredModal.vue";
-import ModalsContainer from "./ModalsContainer.vue";
-export { CenteredModal, ModalsContainer };
+export { default as CenteredModal } from "./CenteredModal.vue";
+export { ModalsContainer } from "vue-final-modal";
