@@ -1,5 +1,11 @@
 # @deegital/vue3-trustup-io-vue-final-modal
 
+## 0.2.5
+
+### Patch Changes
+
+- 726d43a: 🧪
+
 ## 0.2.4
 
 ### Patch Changes
