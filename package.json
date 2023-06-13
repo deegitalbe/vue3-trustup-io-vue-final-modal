@@ -1,7 +1,7 @@
 {
   "name": "@deegital/vue3-trustup-io-vue-final-modal",
   "description": "vue final modal layer",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "type": "module",
   "files": [
     "dist"
